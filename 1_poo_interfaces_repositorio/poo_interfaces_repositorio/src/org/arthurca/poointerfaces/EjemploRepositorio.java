@@ -1,7 +1,6 @@
 package org.arthurca.poointerfaces;
 
 import org.arthurca.poointerfaces.modelo.Cliente;
-import org.aguzman.poointerfaces.repositorio.*;
 import org.arthurca.poointerfaces.repositorio.*;
 
 import java.util.List;
